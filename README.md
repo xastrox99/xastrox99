@@ -26,7 +26,7 @@ I'm a passionate Front-End Developer with 5+ years of experience in crafting int
 
 - Email: team.abn33@gmail.com
 - LinkedIn: [Mohamed Baazzy](https://www.linkedin.com/in/mohamed-baazzy-745b14279/)
-- Portfolio: [MBAAZZY] (https://mbaazzy.vercel.app/)
+- Portfolio: [MBAAZZY](https://mbaazzy.vercel.app/)
 
 ### 📊 GitHub Stats
 
